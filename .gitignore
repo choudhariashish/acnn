@@ -1,0 +1,5 @@
+FANN-2.2.0-Source.zip
+FANN-2.2.0-Source/
+build/
+venv/lib/
+venv/include/
